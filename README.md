@@ -2,9 +2,7 @@
 
 # Olá, eu sou Luiz Wessel 👋
 
-### AI & Computer Vision Developer
-
-Construo sistemas de IA aplicados na prática: pipelines de visão computacional com **YOLO**, IA local com **Ollama**, automação web com **Playwright** e interfaces full-stack de ponta a ponta.
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=39D353&center=true&vCenter=true&width=600&lines=AI+%26+Computer+Vision+Developer;Construindo+pipelines+com+YOLO;IA+local+com+Ollama;Automatizando+a+web+com+Playwright;Full-stack+do+front+ao+back" alt="Typing SVG" />
 
 <!-- 🐍 Animação da cobrinha comendo o gráfico de contribuições -->
 <picture>
@@ -67,5 +65,9 @@ Já são **11 projetos** publicados, divididos entre Computer Vision, Full-Stack
 
 [![Portfólio](https://img.shields.io/badge/Portfólio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://wesselproject.vercel.app)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:heyxist3r@gmail.com)
+
+<br /><br />
+
+![Visualizações do perfil](https://komarev.com/ghpvc/?username=Wessel2007&color=39D353&style=flat-square&label=Visualizações)
 
 </div>
