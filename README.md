@@ -15,18 +15,30 @@ Construo sistemas de IA aplicados na prática: pipelines de visão computacional
 
 <br />
 
-<!-- 🖼️ Retrato em ASCII art -->
-<img src="./assets/ascii_portrait.png" alt="Meu retrato em ASCII art" width="600" />
+<!-- 🖼️ ASCII art à esquerda + informações à direita -->
+<table>
+  <tr>
+    <td width="50%" align="center">
+      <img src="./assets/ascii_portrait.png" alt="Meu retrato em ASCII art" width="100%" />
+    </td>
+    <td width="50%" valign="middle">
 
-</div>
+### 🧠 Sobre mim
 
-<br />
-
-## 🧠 Sobre mim
-
-Sou desenvolvedor focado em **Inteligência Artificial e Visão Computacional**, construindo produtos que saem do notebook e viram sistemas reais em uso: detecção de objetos, agentes que rodam modelos localmente e automações que interagem com a web como um humano faria.
+Desenvolvedor focado em **Inteligência Artificial e Visão Computacional**, construindo produtos que saem do notebook e viram sistemas reais em uso: detecção de objetos, agentes que rodam modelos localmente e automações que interagem com a web como um humano faria.
 
 Já são **11 projetos** publicados, divididos entre Computer Vision, Full-Stack e Applied AI — todos reunidos no meu [portfólio](https://wesselproject.vercel.app).
+
+- 🔭 Trabalhando com pipelines de visão computacional (YOLO)
+- 🤖 Explorando IA local com Ollama
+- 🌐 Automatizando a web com Playwright
+- ⚙️ Construindo interfaces full-stack de ponta a ponta
+
+  </td>
+  </tr>
+</table>
+
+</div>
 
 <br />
 
@@ -49,23 +61,11 @@ Já são **11 projetos** publicados, divididos entre Computer Vision, Full-Stack
 
 <br />
 
-## 📊 Estatísticas
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Wessel2007&show_icons=true&theme=github_dark&hide_border=true&count_private=true" alt="Estatísticas do GitHub" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wessel2007&layout=compact&theme=github_dark&hide_border=true" alt="Linguagens mais usadas" />
-
-</div>
-
-<br />
-
 ## 🔗 Links
 
 <div align="center">
 
 [![Portfólio](https://img.shields.io/badge/Portfólio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://wesselproject.vercel.app)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](#)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](#)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:heyxist3r@gmail.com)
 
 </div>
